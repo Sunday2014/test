@@ -1,0 +1,8 @@
+##分类模块
+<div id="full" class="weui-popup__container">
+    <div class="weui-popup__overlay"></div>
+    <div class="weui-popup__modal">
+        <iframe frameborder="0" style="width:100%;height:100%;"></iframe>
+        <a href="javascript:;" class="weui-btn weui-btn_primary close-popup" style="position:fixed;bottom:0;width:100%;">关闭</a>
+    </div>
+</div>
