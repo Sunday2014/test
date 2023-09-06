@@ -10,7 +10,7 @@ function debounce(fn, delay) {
   return function () {
     if (timer) {
       clearTimeout(timer);
-    }
+    } 
     setTimeout(() => {
         fn.apply(this, arguments);
     }, delay)
